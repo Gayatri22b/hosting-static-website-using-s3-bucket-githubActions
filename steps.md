@@ -1,7 +1,7 @@
 Deploy a static website using githubactions and s3 bucket
 Step 1: Set Up Your S3 Bucket
 
-Create s3 bucket: /mansi-bucket-githubaction/ Enable static website hosting : index.html Add bucket policy:
+Create s3 bucket: /gayatri-bucket-githubaction/ Enable static website hosting : index.html Add bucket policy:
 
 {
 ___"Version": "2012-10-17",
